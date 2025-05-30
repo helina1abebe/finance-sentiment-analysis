@@ -8,3 +8,4 @@ spacy
 transformers
 yfinance
 openpyxl
+wordcloud
