@@ -1,3 +1,8 @@
+#Why PyNance is Not Used
+#Custom Implementation: Calculations are manually implemented, avoiding external libraries.
+#Flexibility: pandas and numpy offer more control.
+#No Extra Dependencies: Reduces the need for managing additional libraries.
+
 import pandas as pd
 import numpy as np
 
