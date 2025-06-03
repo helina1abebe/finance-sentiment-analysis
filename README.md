@@ -30,10 +30,6 @@ This project analyzes financial news and stock price data to uncover insights ab
     ├── optimal_lda_model.gensim  # 📚 Optimal LDA model  
     ├── optimal_lda_model.gensim.*  # 🛠️ Associated LDA files  
     └── README.md               # 📖 Notebook descriptions  
-📁 output/  
-    ├── figures/                # 📊 Plots and visualizations  
-    ├── reports/                # 📝 Generated reports  
-    └── models/                 # 🤖 Final models  
 📁 scripts/  
     └── README.md               # 🗒️ Utility script descriptions  
 📁 src/  
@@ -45,7 +41,6 @@ This project analyzes financial news and stock price data to uncover insights ab
     └── nlp_processing.py       # 🧠 Text processing and sentiment analysis  
 📁 tests/  
     ├── __init__.py             # 🛠️ Initialize test package  
-    └── test_data_loader.py     # ✅ Unit tests for data loading  
 📄 .gitignore                   # 🚫 Files to ignore in Git  
 📄 README.md                    # 📖 Main project documentation  
 📄 requirements.txt             # 🧩 Python dependencies  
@@ -65,7 +60,7 @@ pip install -r requirements.txt
 
 #### 📂 Run the Notebook
 
-Open `notebooks/describe.ipynb` in Jupyter Notebook or VS Code to explore the data and visualizations.
+Open `notebooks/Headline_EDA.ipynb` and `notebooks/stock_analysis.ipynb` in Jupyter Notebook or VS Code to explore the data and visualizations.
 
 ---
 
