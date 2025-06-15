@@ -23,7 +23,7 @@ This project analyzes financial news and stock price data to uncover insights ab
     │   │   ├── NVDA_historical_data.csv  
     │   │   └── TSLA_historical_data.csv  
     │   └── raw_analyst_ratings.csv # 📰 News/ratings data  
-    └── processed/              # ✅ Cleaned or transformed data (optional)  
+    └── processed/              # ✅ Cleaned or transformed data
 📁 notebooks/  
     ├── Headline_EDA.ipynb      # 🧪 Exploratory analysis of headlines  
     ├── stock_analysis.ipynb    # 📊 Stock data analysis notebook  
@@ -89,4 +89,4 @@ The notebook provides insights such as:
 
 ### 📜 License
 
-Licensed under MIT. Consider adding a `LICENSE` file for clarity.
+Licensed under MIT. 
